@@ -18,3 +18,5 @@ for i in range(5):
 print("NR 3")
 for i in range(7,0,-1):
     print("*" * (i))
+    
+print("commit changes)
